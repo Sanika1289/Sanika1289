@@ -39,8 +39,7 @@
  ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanika1289&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanika1289&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" style="margin: 10px;" />
+  
 </p>
 
 
@@ -49,7 +48,7 @@
 
 <h3 align="left">✨ Stay Connected:</h3>
 <div align="left">
-<a href="https://github.com/Paresh-Patil-11" target="_blank">
+<a href="https://github.com/Sanika1289" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/sanika-patil-617865320/" target="_blank">
