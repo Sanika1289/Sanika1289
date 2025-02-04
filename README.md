@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋, I'M SANIKA</h1> 
 <h2 align="center" style="color: lightblue;">A Coding Enthusiast from India 😃</h2>
 
-<img align="right" alt="coding" width="360" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
  
 ### About Me
 - 🔭 **I’m a Bachelor of Computer Application student and will graduate in 2026.**
