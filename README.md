@@ -1,34 +1,14 @@
 <h1 align="center">HI 👋, I'M SANIKA</h1> 
-<h2 align="center" style="color: lightblue;">A Coding Enthusiast from India</h2>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" />
-</p>
+<h2 align="center" style="color: lightblue;">A Coding Enthusiast from India 😃</h2>
 
-<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
+<img align="right" alt="coding" width="360" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
  
 ### About Me
-- 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
-- 👨‍💻 **Passionate about becoming a MERN Stack developer.**
-- 💻 **I’ve solved around 400+ DSA problems on various platforms.**
-- 📩 **Reach out via Email:** [pareshpatil.rcpit@gmail.com](mailto:pareshpatil.rcpit@gmail.com)
-
----
-
-### 👨‍💻 Coding Credentials:
-<p align="left">
-  <a href="https://www.leetcode.com/paresh_patil_11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paresh_patil_11" height="40" width="50" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/pareshpatil11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pareshpatil11" height="40" width="50" /> 
-  </a>
-  <a href="https://www.codechef.com/users/pareshpatil11" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pareshpatil11"height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/paresh_patil_11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paresh_patil_11" height="40" width="50" />
-  </a>
-</p>
+- 🔭 **I’m a Bachelor of Computer Application student and will graduate in 2026.**
+  
+- 👨‍💻 **Passionate about becoming a Coding and development.**
+  
+- 📩 **Reach out via Email:** [psanika1289@gmail.com](mailto:psanika1289@gmail.com)
 
 ---
 
@@ -49,26 +29,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
 </p>
 
@@ -76,9 +38,9 @@
 ---
  ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paresh-patil-11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanika1289&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-patil-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanika1289&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" style="margin: 10px;" />
 </p>
 
 
@@ -90,15 +52,9 @@
 <a href="https://github.com/Paresh-Patil-11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pareshpatil11" target="_blank">
+<a href="https://www.linkedin.com/in/sanika-patil-617865320/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/pareshpatil_11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.instagram.com/paresh_.11" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
 </div> 
 
 
